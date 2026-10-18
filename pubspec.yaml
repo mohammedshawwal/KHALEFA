@@ -1,0 +1,16 @@
+name: khalifa_attar
+description: تطبيق عطارة خليفة العطار
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  shared_preferences: ^2.2.0
+  url_launcher: ^6.2.0
+  crypto: ^3.0.3
+flutter:
+  uses-material-design: true
